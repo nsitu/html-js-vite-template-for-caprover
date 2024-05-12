@@ -9,5 +9,5 @@ To use this template:
 - Make Note of the SERVER domain of your caprover (e.g. https://captain.mydomain.com )
 - In GitHub Make a new repository from this template
 - Once created, go to the repo settings and add APP, TOKEN, and SERVER as secrets.
-- Push an update and the deploy should not be automatic.
+- Push an update and the app should deploy build and deploy automatically
   
